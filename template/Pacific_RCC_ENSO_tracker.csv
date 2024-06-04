@@ -61,5 +61,6 @@ YEAR,MONTH,NOAA,BoM,APCC,NIWA
 2023,12,El_Nino,El_Nino,El_Nino,El_Nino
 2024,1,El_Nino,El_Nino,El_Nino_alert,El_Nino
 2024,2,El_Nino,El_Nino,El_Nino_alert,El_Nino
-2024,3,El_Nino,El_Nino,La_Nina_watch,El_Nino
-2024,4,El_Nino,neutral,La_Nina_watch,El_Nino
+2024,3,La_Nina_watch,El_Nino,La_Nina_watch,El_Nino
+2024,4,La_Nina_watch,neutral,La_Nina_watch,El_Nino
+2024,5,La_Nina_watch,La_Nina_watch,La_Nina_watch,La_Nina_watch
