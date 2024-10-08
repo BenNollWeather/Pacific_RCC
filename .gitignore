@@ -3,6 +3,7 @@ notebooks/.ipynb_checkpoints
 
 # Ignore macOS system files
 notebooks/.DS_Store
+.DS_Store
 
 # Ignore the archive folder
 notebooks/archive
@@ -10,3 +11,4 @@ notebooks/archive
 # Ignore all .nc files
 *.nc
 
+.gitignore
