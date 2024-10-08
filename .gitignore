@@ -1,0 +1,12 @@
+# Ignore Jupyter notebook checkpoints
+notebooks/.ipynb_checkpoints
+
+# Ignore macOS system files
+notebooks/.DS_Store
+
+# Ignore the archive folder
+notebooks/archive
+
+# Ignore all .nc files
+*.nc
+
